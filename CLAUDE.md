@@ -212,5 +212,5 @@ ETF, S&P500, KODEX, Tiger, 배당ETF, 해외ETF, 주식투자, 배당주
 
 단편 중심 블로그 — 시리즈보다 날짜별 독립 포스트.
 
-마지막 포스트: `_posts/2026/06/26/2026-06-26-10-00-00-617250-emergency-fund-how-much-monthly-expense-ratio.md`
-다음 일련번호: `629595`
+마지막 포스트: `_posts/2026/06/29/2026-06-29-10-00-00-716010-youth-future-savings-bank-selection-guide.md`
+다음 일련번호: `728355`
