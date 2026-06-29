@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# 배당 ETF 투자 전략 — SCHD·JEPI 한국에서 사는 방법
-
 ![배당 투자 전략](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80)
 
 배당 ETF 얘기 나올 때 SCHD랑 JEPI 빠지면 섭섭할 정도로 유명해졌다. 근데 한국에서 이걸 사려면 조금 복잡하다. 직접 살 수도 있고, 국내 상장 대체 상품으로 살 수도 있다.

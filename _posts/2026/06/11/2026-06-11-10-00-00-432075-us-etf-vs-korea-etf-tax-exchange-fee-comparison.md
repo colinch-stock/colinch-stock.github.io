@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# 미국 ETF vs 한국 ETF — 세금·환율·수수료 실전 비교
-
 ![주식 차트 분석](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80)
 
 처음 투자 시작할 때 "VOO 사면 된다"는 말 많이 들었다. 근데 막상 비교해보면 어디에 사느냐, 어떤 계좌에 담느냐에 따라 세금이 완전히 달라진다.

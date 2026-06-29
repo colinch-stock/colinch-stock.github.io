@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# ETF 투자 초보 가이드 — S&P500·KODEX·Tiger 어떻게 다른가
-
 ![주식 차트와 ETF 투자 화면](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80)
 
 ETF 계좌 처음 만들고 뭘 살지 몰라서 한참 헤맸다. S&P500이라는 말은 들어봤는데, 미국에서 사야 하는 건지 한국 증권사에서도 살 수 있는 건지조차 몰랐다.
