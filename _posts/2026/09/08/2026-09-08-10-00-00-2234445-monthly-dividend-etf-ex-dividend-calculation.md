@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-![9월 월배당 ETF 분배금과 분배락 계산](../../../../images/posts/2026-09-08-monthly-dividend-etf-ex-dividend-calculation.png)
+![9월 월배당 ETF 분배금과 분배락 계산](https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&q=80)
 
 그림에서 볼 부분은 분배금이 공짜로 생기는 장면이 아니라, ETF 가격에서 현금이 빠져나가는 구조다.
 
